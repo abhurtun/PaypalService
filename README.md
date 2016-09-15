@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/abhurtun/PaypalService.svg?branch=master)](https://travis-ci.org/abhurtun/PaypalService)
+
 # Docker ASP.NET WebAPI Example
 This repo is an example of how to run an ASP.NET WebAPI solution in Docker.
 
